@@ -1,5 +1,8 @@
-Kernel Repo
+Kernel Files
 ============
 
-Any new kernel source files go here!
+1. set_edf.c
+- Added multicore EDF support for periodic tasks while maintaining schedulability across all cores
+2. print_edf.c
+- Prints all periodic tasks running with EDF
  
